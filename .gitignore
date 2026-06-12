@@ -1,0 +1,7 @@
+.idea
+*.log
+*.log.*
+node_modules
+
+out/
+dist/
